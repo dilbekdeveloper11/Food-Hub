@@ -1,0 +1,4 @@
+#Wed Apr 20 00:04:55 UZT 2022
+base.0=/home/dilbek/Desktop/Food-Hub/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
