@@ -62,8 +62,26 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/dilbek/Desktop/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -98,10 +116,40 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "path_drawing",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "pinput",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/pinput-2.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///home/dilbek/Desktop/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "smart_auth",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/smart_auth-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
     },
     {
       "name": "source_span",
@@ -152,13 +200,19 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///home/dilbek/Desktop/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "foodhub",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-04-19T11:09:17.784327Z",
+  "generated": "2022-04-21T16:56:35.499013Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }
